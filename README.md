@@ -2,7 +2,7 @@
 
 **Marketing & Brand Professional | Digital Projects | Technology Enthusiast**
 
-I work in marketing and brand management, while exploring digital tools, technology, content, and practical side projects in my spare time.
+Marketing and brand professional with an interest in digital tools, technology, content, and practical side projects.
 
 ## 🔧 What I Work On
 
