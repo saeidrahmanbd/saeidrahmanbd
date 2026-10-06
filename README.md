@@ -1,11 +1,4 @@
-<!-- BDIX-IPTV Banner -->
-<p align="center">
-  <img
-    src="https://github.com/saeidrahmanbd/BDIX-IPTV/raw/refs/heads/main/assets/Saeid%20Rahman.png"
-    alt="BDIX-IPTV — Bangladesh & India IPTV Hub"
-    width="100%"
-  >
-</p>
+
 
 # 👋 Hi, I'm Saeid Rahman
 
