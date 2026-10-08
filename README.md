@@ -1,5 +1,3 @@
-
-
 # 👋 Hi, I'm Saeid Rahman
 
 **Marketing & Brand Professional | Digital Projects | Technology Enthusiast**
@@ -27,40 +25,40 @@ Marketing and brand professional with an interest in digital tools, technology, 
   >
 </p>
 
-A curated IPTV playlist focused on **Bangladeshi channels, Indian channels, and selected international content** — organized for clean browsing, reliable streams, accurate metadata, and useful backups.
+A curated IPTV playlist focused on **Bangladeshi channels, Indian channels, and selected international content** — organized for clean browsing, reliable streams, accurate metadata, and practical backups.
 
 The project is maintained through regular playlist auditing, metadata cleanup, logo management, EPG work, stream review, and careful backup organization.
 
-### 🛠️ [Playlist Studio 3.0](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/latest)
+### 🛠️ [Playlist Studio 5.0](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/tag/v5.0.0)
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/playlist-studio-3.0-portable-build/Playlist%20Studio%203.0.png"
-    alt="Playlist Studio 3.0 — Fluent Dark Interface"
+    src="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/assets/Playlist%20Studio%205.0.png"
+    alt="Playlist Studio 5.0"
     width="100%"
   >
 </p>
 
-A modern **Windows IPTV workspace** for editing, testing, organizing, and playing playlists.
-
-Playlist Studio brings playlist management, stream verification, metadata, EPG, logos, and playback together in one practical application.
+**Playlist Studio 5.0** is a complete **Windows Playlist Manager, Editor & Player** for managing, organizing, editing, testing, and playing M3U/M3U8 playlists.
 
 ### ✨ Highlights
 
-- 📋 M3U playlist editing and organization
-- ▶️ IPTV stream playback
-- 🔎 Stream scanning and verification
+- 📋 M3U / M3U8 playlist editing and organization
+- ▶️ Built-in stream playback
+- 🔎 Stream scanning and status checking
 - 📡 EPG support
 - 🖼️ Channel logo and metadata management
-- 🏷️ Channel name, ID, number and group editing
+- 🏷️ Channel and category editing
+- 🔗 Stream URL management
 - 🔐 Xtream Codes support
 - 📲 Stalker Portal / MAC support
-- 📊 Excel reporting
+- 🔁 Duplicate channel and stream detection
 - 💾 Save / Save As
 - 🖥️ Portable Windows application
-- 🌑 Fluent Dark interface
+- 🎨 Multiple interface themes
+- 🔧 Windows Build Kit included
 
-**[⬇️ Download Playlist Studio 3.0](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/latest)** · **[View all releases](https://github.com/saeidrahmanbd/BDIX-IPTV/releases)**
+**[⬇️ Download Playlist Studio 5.0 Portable](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/download/v5.0.0/Playlist-Studio-5.0.Portable.exe)** · **[📦 Download Build Kit](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/download/v5.0.0/Playlist-Studio-5.0-Windows-Build-Kit-Final.zip)** · **[View Release](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/tag/v5.0.0)**
 
 ## 🧭 Interests
 
