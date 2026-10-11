@@ -65,7 +65,7 @@ The public repository includes the main IPTV M3U playlist, EPG coverage reports,
 - 🎨 Multiple interface themes
 - 🔧 Windows Build Kit included
 
-**[⬇️ Download Playlist Studio 5.0 Portable](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/download/v5.0.0/Playlist-Studio-5.0.Portable.exe)** · **[📦 Download Build Kit](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/download/v5.0.0/Playlist-Studio-5.0-Windows-Build-Kit-Final.zip)** · **[View Release](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/tag/v5.0.0)**
+**[⬇️ Download Playlist Studio 5.0 Portable](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/download/v5.0.0/Playlist-Studio-5.0.exe)** · **[📦 Download Build Kit](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/download/v5.0.0/Playlist-Studio-5_0-Windows-Build-Kit-Debug12.zip)** · **[View Release](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/tag/v5.0.0)**
 
 ## 🧭 Interests
 
