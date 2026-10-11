@@ -25,9 +25,16 @@ Marketing and brand professional with an interest in digital tools, technology, 
   >
 </p>
 
-A curated IPTV playlist focused on **Bangladeshi channels, Indian channels, and selected international content** — organized for clean browsing, reliable streams, accurate metadata, and practical backups.
+**BDIX-IPTV** is a curated **Bangladesh and India IPTV playlist** project featuring Bangladeshi TV channels, Indian TV channels, selected international live TV, M3U/M3U8 playlist organization, channel logos, EPG (electronic program guide) coverage, metadata auditing, stream health checks, and backup stream management.
 
-The project is maintained through regular playlist auditing, metadata cleanup, logo management, EPG work, stream review, and careful backup organization.
+Designed for M3U-compatible IPTV players such as **XCIPTV**, the project emphasizes organized channel groups, accurate channel identities, duplicate-free stream references, clear maintenance reports, and practical backups rather than indiscriminately collecting entries.
+
+The public repository includes the main IPTV M3U playlist, EPG coverage reports, stream-health and playlist-audit reports, and links to **Playlist Studio**, a Windows M3U playlist manager, editor, and player.
+
+- **Repository:** [saeidrahmanbd/BDIX-IPTV](https://github.com/saeidrahmanbd/BDIX-IPTV)
+- **Main playlist:** [IPTV-Playlist.m3u](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/IPTV-Playlist.m3u)
+- **Playlist software:** [Playlist Studio](https://github.com/saeidrahmanbd/Playlist-Studio)
+- **Topics:** BDIX IPTV, Bangladesh IPTV, India IPTV, M3U playlist, IPTV player, XCIPTV, EPG, playlist auditing
 
 ### 🛠️ [Playlist Studio 5.0](https://github.com/saeidrahmanbd/BDIX-IPTV/releases/tag/v5.0.0)
 
