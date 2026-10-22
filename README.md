@@ -21,6 +21,12 @@
 </p>
 
 <p align="center">
+  <b>Follow for project updates</b> ·
+  <a href="https://github.com/saeidrahmanbd">Follow on GitHub</a> ·
+  <a href="https://github.com/saeidrahmanbd/BDIX-IPTV/stargazers">Star BDIX-IPTV</a>
+</p>
+
+<p align="center">
   <a href="#-what-i-work-on">What I Work On</a> ·
   <a href="#-featured-projects">Featured Projects</a> ·
   <a href="#-interests">Interests</a>
@@ -45,8 +51,8 @@
 <p align="center">
   <a href="https://github.com/saeidrahmanbd/BDIX-IPTV">
     <img
-      src="https://github.com/saeidrahmanbd/BDIX-IPTV/raw/refs/heads/main/assets/Saeid%20Rahman.png"
-      alt="BDIX-IPTV — Bangladesh & India IPTV Hub"
+      src="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/assets/iptv-project-showcase-2026-10-22.svg"
+      alt="BDIX-IPTV — three playlists, metadata, EPG and logo maintenance"
       width="100%"
     >
   </a>
@@ -56,9 +62,9 @@
 
 Designed for M3U-compatible players such as **XCIPTV**, it favors organized groups, accurate channel identities, duplicate-free stream references, clear maintenance reports, and practical backups over simply collecting entries.
 
-| 🏠 Repository | 📺 Main Playlist | 🖥️ Software |
-|:---:|:---:|:---:|
-| [saeidrahmanbd/BDIX-IPTV](https://github.com/saeidrahmanbd/BDIX-IPTV) | [IPTV-Playlist.m3u](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/IPTV-Playlist.m3u) | [Playlist Studio](https://github.com/saeidrahmanbd/Playlist-Studio) |
+| 🏠 Repository | 📺 Playlist collections | 🖥️ Software |
+|:---:|---|:---:|
+| [saeidrahmanbd/BDIX-IPTV](https://github.com/saeidrahmanbd/BDIX-IPTV) | [Main M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/IPTV-Playlist.m3u) · [BDIX M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/BDIX-Playlist.m3u) · [International M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/International-Playlist.m3u) | [Playlist Studio](https://github.com/saeidrahmanbd/Playlist-Studio) |
 
 <p>
   <img src="https://img.shields.io/badge/BDIX%20IPTV-0969da?style=flat-square" alt="BDIX IPTV">
