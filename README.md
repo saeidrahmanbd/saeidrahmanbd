@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://github.com/saeidrahmanbd/BDIX-IPTV">
     <img
-      src="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/assets/iptv-project-showcase-2026-10-22.svg"
+      src="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/assets/iptv-project-showcase.svg"
       alt="BDIX-IPTV — three playlists, metadata, EPG and logo maintenance"
       width="100%"
     >
@@ -87,7 +87,7 @@ Designed for M3U-compatible players such as **XCIPTV**, it favors organized grou
 <p align="center">
   <a href="https://github.com/saeidrahmanbd/Playlist-Studio">
     <img
-      src="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/assets/Playlist%20Studio%205.0.png"
+      src="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/assets/playlist-studio-5.png"
       alt="Playlist Studio 5.0"
       width="100%"
     >
