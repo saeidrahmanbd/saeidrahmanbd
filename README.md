@@ -82,35 +82,48 @@ Designed for M3U-compatible players such as **XCIPTV**, it favors organized grou
 
 ---
 
-### 🛠️ [Playlist Studio 5.0](https://github.com/saeidrahmanbd/Playlist-Studio/releases/tag/v5.0.0)
+### 🛠️ [Playlist Studio 5.1](https://github.com/saeidrahmanbd/Playlist-Studio/releases/tag/v5.1)
 
 <p align="center">
   <a href="https://github.com/saeidrahmanbd/Playlist-Studio">
     <img
-      src="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/assets/playlist-studio-5.png"
-      alt="Playlist Studio 5.0"
+      src="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/assets/Playlist-Studio-5.1.JPG"
+      alt="Playlist Studio 5.1 — Windows playlist manager, EPG centre, stream scanner and player"
       width="100%"
     >
   </a>
 </p>
 
-**Playlist Studio 5.0** is a complete **Windows Playlist Manager, Editor & Player** for managing, organizing, editing, testing, and playing M3U/M3U8 playlists.
+**Playlist Studio 5.1** is a portable **Windows Playlist Manager, Editor, EPG Tool & Player** for managing, organizing, editing, testing and playing M3U/M3U8 playlists.
 
-#### ✨ Highlights
+#### ✨ What's new in 5.1
+
+- **EPG Centre:** Load multiple XMLTV guides from URLs or local XML, GZ, XZ and ZIP files; inspect coverage, guide status and Now/Next.
+- **EPG editing:** Search, sort and edit tvg-id values, preview bulk metadata changes and undo; manual EPG corrections persist through refreshes and re-imports.
+- **Smarter stream scanner:** Responsive, Dead, Unreachable, Restricted, Stale, Unavailable, Unverified and Error statuses. Timeouts and blocked requests are not automatically marked Dead.
+- **Flexible scanning:** Pause, resume and cancel scans; configure limits, timeouts, retries and player identity; scan selected channels, a category or the current view.
+- **Persistent review history:** Good, Bad and Review verdicts, notes and scan history are retained between sessions; new scans do not overwrite saved verdicts.
+- **Xtream & Stalker:** Background login/import with cancellation; Xtream can fall back to M3U download; Stalker imports are undoable.
+- **Credential protection:** Remembered provider logins are protected with Windows DPAPI.
+- **Safer playlist handling:** UTF-8 saving, preservation of directives/comments/unknown header keys, safer backups, autosave/recovery and malformed-line import repair.
+
+#### Core features
 
 | | | |
 |---|---|---|
-| 📋 M3U / M3U8 editing & organization | ▶️ Built-in stream playback | 🔎 Stream scanning & status checks |
-| 📡 EPG support | 🖼️ Logo & metadata management | 🏷️ Channel & category editing |
+| 📋 M3U / M3U8 editing & organization | ▶️ Built-in playback | 🔎 Stream scanning & diagnostics |
+| 📡 XMLTV EPG Centre & editing | 🖼️ Logo & metadata management | 🏷️ Channel & category editing |
 | 🔗 Stream URL management | 🔐 Xtream Codes support | 📲 Stalker Portal / MAC support |
 | 🔁 Duplicate detection | 💾 Save / Save As | 🖥️ Portable Windows app |
 | 🎨 Multiple interface themes | 🔧 Windows Build Kit included | |
 
 <p align="center">
-  <a href="https://github.com/saeidrahmanbd/Playlist-Studio/releases/download/v5.0.0/Playlist-Studio-5.0.exe"><img src="https://img.shields.io/badge/⬇%20Download%20Portable-2ea44f?style=for-the-badge" alt="Download portable"></a>
-  <a href="https://github.com/saeidrahmanbd/Playlist-Studio/releases/download/v5.0.0/Playlist-Studio-5_0-Windows-Build-Kit-Debug22.zip"><img src="https://img.shields.io/badge/📦%20Build%20Kit-6e7681?style=for-the-badge" alt="Download build kit"></a>
-  <a href="https://github.com/saeidrahmanbd/Playlist-Studio/releases/tag/v5.0.0"><img src="https://img.shields.io/badge/🚀%20View%20Release-8250df?style=for-the-badge" alt="View release"></a>
+  <a href="https://github.com/saeidrahmanbd/Playlist-Studio/releases/download/v5.1/Playlist-Studio-5.1.exe"><img src="https://img.shields.io/badge/⬇%20Download%20Playlist%20Studio%205.1-2ea44f?style=for-the-badge" alt="Download Playlist Studio 5.1 portable"></a>
+  <a href="https://github.com/saeidrahmanbd/Playlist-Studio/releases/download/v5.1/Playlist-Studio-5_1-Windows-Build-Kit-r2.zip"><img src="https://img.shields.io/badge/📦%20Windows%20Build%20Kit%20r2-6e7681?style=for-the-badge" alt="Download Playlist Studio 5.1 Windows Build Kit"></a>
+  <a href="https://github.com/saeidrahmanbd/Playlist-Studio/releases/tag/v5.1"><img src="https://img.shields.io/badge/🚀%20View%20v5.1%20Release-8250df?style=for-the-badge" alt="View Playlist Studio 5.1 release"></a>
 </p>
+
+**Portable and ready to run:** No installer, Python or separate VLC installation is required to run the application.
 
 ---
 
