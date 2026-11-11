@@ -64,7 +64,7 @@ Designed for M3U-compatible players such as **XCIPTV**, it favors organized grou
 
 | 🏠 Repository | 📺 Playlist collections | 🖥️ Software |
 |:---:|---|:---:|
-| [saeidrahmanbd/BDIX-IPTV](https://github.com/saeidrahmanbd/BDIX-IPTV) | [Main M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/IPTV-Playlist.m3u) · [BDIX M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/BDIX-Playlist.m3u) · [International M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/International-Playlist.m3u) | [Playlist Studio](https://github.com/saeidrahmanbd/Playlist-Studio) |
+| [saeidrahmanbd/BDIX-IPTV](https://github.com/saeidrahmanbd/BDIX-IPTV) | [Main M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/IPTV-Playlist.m3u) · [BDIX M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/BDIX-Playlist.m3u) · [International M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/International-Playlist.m3u) | [Playlist Studio](https://github.com/saeidrahmanbd/Playlist-Studio) · [Project website](https://saeidrahmanbd.github.io/BDIX-IPTV/playlist-studio.html) |
 
 <p>
   <img src="https://img.shields.io/badge/BDIX%20IPTV-0969da?style=flat-square" alt="BDIX IPTV">
