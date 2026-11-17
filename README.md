@@ -69,7 +69,8 @@ Designed for M3U-compatible players such as **XCIPTV**, it favors organized grou
 <p>
   <img src="https://img.shields.io/badge/BDIX%20IPTV-0969da?style=flat-square" alt="BDIX IPTV">
   <img src="https://img.shields.io/badge/Bangladesh%20IPTV-006a4e?style=flat-square" alt="Bangladesh IPTV">
-  <img src="https://img.shields.io/badge/India%20IPTV-ff9933?style=flat-square" alt="India IPTV">\n  <img src="https://img.shields.io/badge/Pakistan%20IPTV-01411C?style=flat-square" alt="Pakistan IPTV">
+  <img src="https://img.shields.io/badge/India%20IPTV-ff9933?style=flat-square" alt="India IPTV">
+  <img src="https://img.shields.io/badge/Pakistan%20IPTV-01411C?style=flat-square" alt="Pakistan IPTV">
   <img src="https://img.shields.io/badge/M3U-6f42c1?style=flat-square" alt="M3U">
   <img src="https://img.shields.io/badge/XCIPTV-00b4d8?style=flat-square" alt="XCIPTV">
   <img src="https://img.shields.io/badge/EPG-orange?style=flat-square" alt="EPG">
