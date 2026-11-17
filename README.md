@@ -58,18 +58,19 @@
   </a>
 </p>
 
-**BDIX-IPTV** is a curated **Bangladesh and India IPTV playlist** featuring Bangladeshi and Indian TV channels and selected international live TV — with organized M3U/M3U8 playlists, channel logos, EPG coverage, metadata auditing, stream health checks, and backup stream management.
+**BDIX-IPTV** is a curated **multi-country IPTV playlist project** featuring channels from Bangladesh, India, Pakistan and eligible international markets — with organized M3U/M3U8 playlists, channel logos, XMLTV EPG, metadata auditing, stream diagnostics and backup management.
 
 Designed for M3U-compatible players such as **XCIPTV**, it favors organized groups, accurate channel identities, duplicate-free stream references, clear maintenance reports, and practical backups over simply collecting entries.
 
 | 🏠 Repository | 📺 Playlist collections | 🖥️ Software |
 |:---:|---|:---:|
-| [saeidrahmanbd/BDIX-IPTV](https://github.com/saeidrahmanbd/BDIX-IPTV) | [Main M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/IPTV-Playlist.m3u) · [BDIX M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/BDIX-Playlist.m3u) · [International M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/International-Playlist.m3u) | [Playlist Studio](https://github.com/saeidrahmanbd/Playlist-Studio) · [Project website](https://saeidrahmanbd.github.io/BDIX-IPTV/playlist-studio.html) |
+| [saeidrahmanbd/BDIX-IPTV](https://github.com/saeidrahmanbd/BDIX-IPTV) | [Main M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/IPTV-Playlist.m3u) · [International M3U](https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/International-Playlist.m3u) | [Playlist Studio](https://github.com/saeidrahmanbd/Playlist-Studio) · [Project website](https://saeidrahmanbd.github.io/BDIX-IPTV/playlist-studio.html) |
 
 <p>
   <img src="https://img.shields.io/badge/BDIX%20IPTV-0969da?style=flat-square" alt="BDIX IPTV">
   <img src="https://img.shields.io/badge/Bangladesh%20IPTV-006a4e?style=flat-square" alt="Bangladesh IPTV">
   <img src="https://img.shields.io/badge/India%20IPTV-ff9933?style=flat-square" alt="India IPTV">
+  <img src="https://img.shields.io/badge/Pakistan%20IPTV-01411C?style=flat-square" alt="Pakistan IPTV">
   <img src="https://img.shields.io/badge/M3U-6f42c1?style=flat-square" alt="M3U">
   <img src="https://img.shields.io/badge/XCIPTV-00b4d8?style=flat-square" alt="XCIPTV">
   <img src="https://img.shields.io/badge/EPG-orange?style=flat-square" alt="EPG">
