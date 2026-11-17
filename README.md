@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/saeidrahman.mkt"><img src="https://img.shields.io/badge/Facebook-Saeid%20Rahman-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.facebook.com/saeid.rahman.sr"><img src="https://img.shields.io/badge/Facebook-Saeid%20Rahman-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:saeidrahman.mkt@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20🇧🇩-006a4e?style=flat-square" alt="Bangladesh">
 </p>
